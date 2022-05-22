@@ -1,0 +1,11 @@
+4019980018508 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+4519980000762 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+4019980012282 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+4019980017508 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+4019980012191 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+4019980014821 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+4219980000187 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+4119980010308 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+7019980000197 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+4019980029280 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
+4019980033787 , {'response': {'header': {'resultMsg': None, 'resultCode': None}, 'body': {'items': None}}}
